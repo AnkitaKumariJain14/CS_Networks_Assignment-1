@@ -9,5 +9,5 @@
     client_thread.py
     
 ## Mininet
-   Files located in Mininet folder.
-   run using "sudo python3 topology.py"
+   Files located in Mininet folder
+   Run using "sudo python3 topology.py"
